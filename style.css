@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+#anchorTags {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    font-family: 'Special Elite', cursive;
+}
+
+#footer {
+    width: 100%;
+    background-color: white;
+    bottom: 0;
+    position: fixed;
+    line-height: 2.5;
+    font-size: 20px;
+    font-family: 'Pacifico';
+}
