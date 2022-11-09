@@ -1,13 +1,22 @@
 body {
+    background-color: #fbb9c5;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
-#anchorTags {
+.anchorTags {
     background-color: white;
     font-size: 20px;
-    border-radius: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
     font-family: 'Special Elite', cursive;
+    width: 25%;
+    color: blue;
+}
+
+#back {
+    float: right;
 }
 
 #footer {
